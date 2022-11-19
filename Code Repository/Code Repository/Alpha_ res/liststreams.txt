@@ -1,0 +1,60 @@
+[
+    {
+        "name" : "root",
+        "createtxid" : "e217cc08e0a24f35ec026ceb3e04e24edf0aab6e6f542d5b1e947b0b19fc30bf",
+        "streamref" : "0-0-0",
+        "restrict" : {
+            "write" : false,
+            "read" : false,
+            "onchain" : false,
+            "offchain" : false
+        },
+        "details" : {
+        },
+        "subscribed" : true,
+        "retrieve" : true,
+        "canretrieve" : true,
+        "indexes" : {
+            "items" : true,
+            "keys" : true,
+            "publishers" : true,
+            "items-local" : true,
+            "keys-local" : true,
+            "publishers-local" : true
+        },
+        "synchronized" : true,
+        "items" : 0,
+        "confirmed" : 0,
+        "keys" : 0,
+        "publishers" : 0
+    },
+    {
+        "name" : "vpbc",
+        "createtxid" : "1e141fc9ec138fdd197a50dd0de9ac14146327bfe27c7178fcd25e31c8acdab0",
+        "streamref" : "60-266-5150",
+        "restrict" : {
+            "write" : true,
+            "read" : false,
+            "onchain" : false,
+            "offchain" : false
+        },
+        "details" : {
+        },
+        "subscribed" : true,
+        "retrieve" : true,
+        "canretrieve" : true,
+        "indexes" : {
+            "items" : true,
+            "keys" : true,
+            "publishers" : true,
+            "items-local" : true,
+            "keys-local" : true,
+            "publishers-local" : true
+        },
+        "synchronized" : true,
+        "items" : 5,
+        "confirmed" : 5,
+        "keys" : 2,
+        "publishers" : 2
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "VPBCcoin",
+        "issuetxid" : "920b2181c0c39286199e0cdd274689373273afd81d1e54b512179b9799f1f4a8",
+        "assetref" : "106-265-2962",
+        "multiple" : 100,
+        "units" : 0.01,
+        "open" : false,
+        "restrict" : {
+            "send" : false,
+            "receive" : false,
+            "issue" : true
+        },
+        "fungible" : true,
+        "canopen" : false,
+        "canclose" : false,
+        "totallimit" : null,
+        "issuelimit" : null,
+        "details" : {
+        },
+        "issuecount" : 1,
+        "issueqty" : 100000,
+        "issueraw" : 10000000,
+        "subscribed" : false
+    }
+]

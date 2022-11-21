@@ -131,8 +131,8 @@ print(len(random_numbers))
 print(sum(random_numbers))
 ```
 #### Defition II - Generating the Shares from the Secret
-* Create a python module with the following node
-```
-
-```
+* Create a python module with the python code found in [this file](https://github.com/Sam-Onalo/Virtual-Private-Blockchains/blob/main/Code%20Repository/Code%20Repository/VPBC_Node/sss_sg.py) within this respository.
+* 
+#### Defition II - Rescontructing the Secret from a threshold of the Shares
+* Create a python module with the python code found in [this file](https://github.com/Sam-Onalo/Virtual-Private-Blockchains/blob/main/Code%20Repository/Code%20Repository/VPBC_Node/main_ssrecon.py) within this respository.
 

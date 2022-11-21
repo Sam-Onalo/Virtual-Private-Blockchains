@@ -79,7 +79,7 @@ $ sudo su -
 > 1. Find download folder
 > 2. Copy to target directory (e.g. on H: drive)
 > 3. Change directory to target folder
-* Use e.g. cd "\DATA\CI7100\MultiChain"
+* Use e.g. cd `\DATA\CI7100\MultiChain`
 * Check out the online (documentation)[https://www.multichain.com/getting-started/]
 ***
 

@@ -10,10 +10,16 @@ A list of technologies used within the project:
 * [Python](https://www.python.org/): Version 3.11
 * [Linux-Ubuntu Desktop](https://ubuntu.com/): Version 16.04 
 * [Oracle VirtualBox](https://www.oracle.com/virtualization/): Version 6.2
-* [Link to Download Ubuntu Seed Virtual Machines ](https://drive.google.com/drive/folders/1B-Srhl2rZsEQ39SAG-5jGtmb5ByP0mfu?usp=sharing): Last update: 20/11/2022
+* [Link to Download Ubuntu Seed Virtual Machines ](https://drive.google.com/drive/folders/1B-Srhl2rZsEQ39SAG-5jGtmb5ByP0mfu?usp=sharing): Last update: 7/12/2022
 
 ## How to Run the VPBC implementation based on predefined Seed Virtual Machines
 Follow these instructions to initiate the process.
+
+### preliminaries
+***
+* Download and install Oraclebox, preferably version 6.2 or later. [Click here to download: Version 6.2](https://www.oracle.com/virtualization/)
+* Downlaod both seed virtual machines [found here](https://drive.google.com/drive/folders/1B-Srhl2rZsEQ39SAG-5jGtmb5ByP0mfu?usp=sharing) and import them into Oracle VirtualBox.
+* Both Node 1 and 2 are now ready to start. 
 
 ### NODE 1
 ```

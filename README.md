@@ -29,14 +29,14 @@ $ Enter the command sudo su
 $ Username: vpbc
 $ password: abc123
 ```
-#### Enter the following commands to run the Random Splitting process:
+#### Enter the following commands to run the Secure Asset Transfer Experimemt:
 ```
 $ ./init_node.sh
 $ ./begin_rsg.sh
 $ ./asset_transfer.sh
 $ ./check_balance.sh
 ```
-#### Enter the following commands to run the Secret Sharing process:
+#### Enter the following commands to run the Secure Asset Sharing Experiement:
 ```
 $ ./sss_sg_main.sh
 $ ./vpbc_stream_enc.sh
@@ -50,12 +50,12 @@ $ Enter the command sudo su
 $ Username: vpbc
 $ password: abc123
 ```
-#### Enter the following commands to run the secret recovery process:
+#### Enter the following commands to run the Asset recovery process:
 ```
 $ ./init_node.sh
 $ ./check_balance.sh
 ```
-#### Enter the following commands to run the secret reconstruction process:
+#### Enter the following commands to run the Asset reconstruction process:
 ```
 $ ./regen_stream_main.sh
 ```

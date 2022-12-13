@@ -53,10 +53,13 @@ $ password: abc123
 #### Enter the following commands to run the Asset recovery process:
 ```
 $ ./init_node.sh
+$ ./connect_mainchain.sh
 $ ./check_balance.sh
 ```
 #### Enter the following commands to run the Asset reconstruction process:
 ```
+$ ./init_node.sh
+$ ./connect_mainchain.sh
 $ ./regen_stream_main.sh
 ```
  
